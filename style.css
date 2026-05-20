@@ -1,0 +1,32 @@
+body {
+     /* background-color: rgb(246, 247, 246); */
+    background-image: url(1.webp);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+
+}
+
+.p1 {text-align: left;
+    letter-spacing: 0.5px;
+    word-spacing: 1px;
+}
+
+.p2 {text-align: center;
+}
+
+.p3 {text-align: right;
+}
+
+.p4 {text-align: justify;
+    /*lem = 16px*/
+    text-indent: 2em;
+}
+.dec1{
+    text-decoration: underline wavy rgb(103, 136, 228);
+}
+
+.trans1 {
+    color: rgb(187, 21, 187);
+    text-transform: uppercase;
+}
+
